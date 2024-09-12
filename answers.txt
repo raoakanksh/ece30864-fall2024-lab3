@@ -2,3 +2,12 @@
 a) 
   Pros:I am familiar with 2 types of methods, one of them being Agile and the other being Waterfall method. I believe that Agile is better because it allows for flexibility. What I mean by this is that it allows for their to be changes made no matter what stage in the project you are in. Agile also supports CI/CD in a way, where they encourage deploying small aspects of the project.
   Cons: As mentioned above you can always add things where you see fit, but this may make it hard for client to know when the project will be done by, and this also goes hand in hand with another con. If I can add anything(within the scope) at any time, I need to be in constant communication with other people working on this project.
+
+  b)
+  Scrum Master: The scrum master is in charge of making sure the team follows the agile methodologies. When I was at my internship, the scrum master was in charge providing all the story points, stories, all the things associated with JIRA was done through the Scrum Master.
+  Product Owner:The product owner serves as the main link for the customer, responsible for identifying the product requirements for the development team.
+
+c) 
+  -Daily-Tag up(I had this everyday -> lasted about 10-30 mins)
+  - Scrum Meetings/Sprint Planning(Once every 2 weeks, lasted a while -> sometimes 2 hours long)
+  -Sprint Review(Talks about pasts Scrums and see how we did)
