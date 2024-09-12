@@ -11,3 +11,9 @@ c)
   -Daily-Tag up(I had this everyday -> lasted about 10-30 mins)
   - Scrum Meetings/Sprint Planning(Once every 2 weeks, lasted a while -> sometimes 2 hours long)
   -Sprint Review(Talks about pasts Scrums and see how we did)
+
+  d)
+  - Epic -> A big feature or aspect of a project that can be broken down into smaller stories.
+  -Story -> A specific functionality or tasks that needs to be done.
+  - Bug ->A problem that occurs in the code that needs to be fixed.
+  -Task -> Something that needs to be completed in order to fix a bug that was raised, or complete a impartial story.
