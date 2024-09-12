@@ -1,1 +1,4 @@
 
+a) 
+  Pros:I am familiar with 2 types of methods, one of them being Agile and the other being Waterfall method. I believe that Agile is better because it allows for flexibility. What I mean by this is that it allows for their to be changes made no matter what stage in the project you are in. Agile also supports CI/CD in a way, where they encourage deploying small aspects of the project.
+  Cons: As mentioned above you can always add things where you see fit, but this may make it hard for client to know when the project will be done by, and this also goes hand in hand with another con. If I can add anything(within the scope) at any time, I need to be in constant communication with other people working on this project.
